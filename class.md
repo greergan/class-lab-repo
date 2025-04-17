@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Jeff Greer]  
+- Certification: [Brian J Greer Jr]  
 
 ## Instructions
 Please replace the placeholders with your details:
